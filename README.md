@@ -1,5 +1,5 @@
 ## What
-** Zeonll-Solarized ** is an eye-friendly theme.
+**Zeonll-Solarized** is an eye-friendly theme.
 ![screen](zeonll-solarize.png)
 
 ## How to use 
